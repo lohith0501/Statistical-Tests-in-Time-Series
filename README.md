@@ -1,0 +1,2 @@
+# Tests-in-Time-Series
+To understand time series there are many tests involved. Some of them are Augmented Dickey-Fuller Test which will let us know if data is stationary or non stationary. Second, Granger’s Causality Test.This test will help to conclude if there is any causality involved between variables. Eg: Y is caused because of X. Lastly, Durbin Watson Statistic.This test will let us know if there is any autocorrelation involved by looking into its residuals/lag residuals.
